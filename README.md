@@ -22,7 +22,7 @@ index.js
 
 ```javascript
 
-import { runWithAdal } from 'react-adal';
+import { runWithAdal } from 'douglasdennys-react-adal-ad-fs';
 import { authContext } from './adalConfig';
 
 const DO_NOT_LOGIN = false;
