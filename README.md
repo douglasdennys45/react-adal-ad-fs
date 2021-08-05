@@ -15,7 +15,7 @@ Azure Active Directory Library (ADAL) support for <a href="https://facebook.gith
 Azure Active Directory Library (ADAL) support for ReactJS
 
 ```
-npm i @douglasdennys/react-adal-ad-fs
+npm i douglasdennys-react-adal-ad-fs
 ```
 
 index.js
