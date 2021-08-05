@@ -1,11 +1,9 @@
 {
-  "name": "@douglasdennys/react-adal-ad-fs",
+  "name": "douglasdennys-react-adal-ad-fs",
   "version": "0.0.1",
   "description": "Azure Active Directory (ADAL) support for ReactJS",
   "main": "lib/react-adal.js",
-  "author": {
-    "name": "Douglas Dennys"
-  },
+  "author": "salvoravida",
   "scripts": {
     "build": "cross-env NODE_ENV=production babel src --out-dir lib",
     "prepare": "npm run build",
@@ -26,7 +24,6 @@
     "directory",
     "msal"
   ],
-  "author": "salvoravida",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/douglasdennys45/react-adal-ad-fs/issues"
